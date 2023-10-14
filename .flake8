@@ -1,0 +1,4 @@
+[flake8]
+ignore = E221, F403, F405
+# per-file-ignores =
+#     my_debugger_defines.py: E221
